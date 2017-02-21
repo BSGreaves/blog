@@ -2,4 +2,4 @@
 
 ## Project Description
 
-![Screengrabs]()
+![Screengrab](/screenshots/blog.png)
